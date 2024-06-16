@@ -32,8 +32,8 @@ Technologies Used:
     Flutter TTS: For text-to-speech functionality.
     Flow Chart
 
-
-    ![flow](https://github.com/kalimaty/-Slide-Show-App/assets/105967966/8c536b05-ac9d-46db-ac65-167b9900e2b9)
+ 
+![flow](https://github.com/kalimaty/-Slide-Show-App/assets/105967966/cc30ba90-ed1e-420a-ab8d-fdb4f1fc3042)
 
 Description of the Project
 
