@@ -71,7 +71,8 @@ Technologies Used:
 
 
     
-    ![flow](https://github.com/kalimaty/Slide-Show_App/assets/105967966/25b7a2e9-6f20-4467-a172-06444b3f2794)
+    
+![flow](https://github.com/kalimaty/Slide-Show_App/assets/105967966/36aec838-d4eb-498a-8bc9-e044feb11cc1)
 
 
     Detailed Steps
