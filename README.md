@@ -1,5 +1,22 @@
 # -Slide-Show-App
 
+![1](https://github.com/kalimaty/-Slide-Show-App/assets/105967966/4b198197-159c-43e7-8f7c-99e6343b0ed5)
+
+
+![2](https://github.com/kalimaty/-Slide-Show-App/assets/105967966/f13437dd-07f9-4c6b-9911-0715989032ab)
+
+
+
+![3](https://github.com/kalimaty/-Slide-Show-App/assets/105967966/7fe29851-9fb6-49ed-b454-7eee131b90c8)
+
+
+
+![4](https://github.com/kalimaty/-Slide-Show-App/assets/105967966/4be6d43b-688c-4d2a-8914-ae6ba1be986b)
+
+
+
+![5](https://github.com/kalimaty/-Slide-Show-App/assets/105967966/c593588d-f2ae-4b85-b627-5b14989488b2)
+
 Project Overview:
 The Slide Show App is an interactive application designed to provide users with a dynamic slideshow experience featuring various topics. Each topic contains a series of images with associated names. The application includes text-to-speech functionality to read aloud the names of the images as they are displayed. The app aims to be educational, engaging, and user-friendly, making it suitable for various audiences, including children.
 
