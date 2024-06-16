@@ -70,53 +70,9 @@ Technologies Used:
     Provider: For state management.
     Flutter TTS: For text-to-speech functionality.
 
-Flow Chart
+ 
 
-plaintext
 
-+-----------------------+
-|  Topic Selection      |
-|  Screen               |
-+-----------------------+
-            |
-            v
-+-----------------------+
-|  Topic Screen         |
-|  (List of Images)     |
-+-----------------------+
-            |
-            v
-+-----------------------+
-|  Slideshow Screen     |
-|  - Display Image      |
-|  - Speak Image Name   |
-+-----------------------+
-            |
-            v
-+-----------------------+
-|  Check if Last Image? |
-|  +---+        +----+  |
-|  | No|        | Yes|  |
-|  +---+        +----+  |
-|    |            |
-|    v            v
-|  (Next Image)   +----------------------+
-|    |            |  End Screen          |
-|    |            |  - "Back to Topics"  |
-|    +----------->+----------------------+
-            |
-            v
-+-----------------------+
-|  History Screen       |
-|  - List of Images     |
-|  - Replay Name (TTS)  |
-+-----------------------+
-            |
-            v
-+-----------------------+
-|  Topic Selection      |
-|  Screen               |
-+-----------------------+
 
 Detailed Steps
 
